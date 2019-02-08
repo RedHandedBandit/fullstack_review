@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  height: 100vh;
+  width: 100vw;
+  background-image: url("https://t-ec.bstatic.com/images/hotel/max1024x768/127/127799339.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 4px;
+  padding: 5px;
 }
 
 .App-logo {
